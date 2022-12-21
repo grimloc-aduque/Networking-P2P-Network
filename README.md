@@ -1,5 +1,5 @@
 # Networking-P2P-Network
-# Technlogies
+# Technologies
 Python
 * socket
 * pandas
